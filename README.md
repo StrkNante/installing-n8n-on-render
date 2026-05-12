@@ -13,7 +13,7 @@ Follow these steps :
 4. Apply
 5. Go to Dashboard > n8n (your service name) > Environment
 6. Copy your URL (purple link in header).
-7. Past your URL as value for WEBHOOK_URL
+7. Past your URL as value for WEBHOOK_URL (add the var if !exist)
 8. Wait a minute for your instance to update
 9. Enjoy !
 
