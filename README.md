@@ -1,4 +1,4 @@
-# n8n-render (easy mode)
+# n8n-render
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
 
@@ -20,4 +20,4 @@ Follow these steps :
 
 This instance will be free for 90d, then you need to pay 7$/mo for the database.
 
-Created by Antoine Deschamps for La Machine. Inspired by ready4mars.
+Created by StrkNante. Inspired by ready4mars and Antoine Deschamps.
