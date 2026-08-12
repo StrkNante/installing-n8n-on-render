@@ -39,6 +39,9 @@ services:
       - key: DB_POSTGRESDB_SSL_ENABLED
         value: "true"
 
+      - key: DB_POSTGRESDB_SSL_REJECT_UNAUTHORIZED
+        value: "false"
+
       - key: PORT
         value: "5678"
 
